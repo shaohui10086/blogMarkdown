@@ -1,7 +1,12 @@
 ---
 title: 关于SharedPreference踩的那些坑
 date: 2016-10-20 14:45:46
-tags: Android
+tags: 
+- Android
+- SharedPreferences
+categories: 每日一问
+comments: true
+toc: true
 ---
 看文章之前，首先思考一个问题：SharedPreference支持多进程吗？如果你知道的话，下面的内容可能对你没有太大的帮助，可以快读阅读，复习一下或者指教我写的不对的地方，如果你犹豫不决，或者不知道的话，下面的内容可能会对你有些帮助。
 
