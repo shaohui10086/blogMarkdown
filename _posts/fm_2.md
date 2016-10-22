@@ -3,7 +3,8 @@ title: 老司机电台-第二期-微信应用号来了
 tags:
   - 微信应用号
 comment: true
-categories: 电台
+categories: FM
+visible: hide
 date: 2016-09-26 23:09:55
 ---
 

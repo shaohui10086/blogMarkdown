@@ -97,9 +97,9 @@ public SharedPreferences getPreferences(int mode) {
 
 ### 题外话
 
-其实就是扯闲篇，和`SharedPreferences`相关的还有一个类`Preference`，虽然他们没有什么直接关系，前者是用来存储键值对，而后者是用来帮助开发者构建界面的，主要是设置界面，唯一的相关性可能就是`Preference`是用`SharedPreferences`来保存设置信息的，但是如果有时间的话，你还是可以看下`Preference`，你就知道为什么有些应用的设置界面怎么做到的那么遵守 Material Design，其实是现成的...,看完你就懂了，[传送门(自备梯子)](https://developer.android.com/guide/topics/ui/settings.html)
+其实就是扯闲篇，和`SharedPreferences`相关的还有一个类`Preference`，虽然他们没有什么直接关系，前者是用来存储键值对，而后者是用来帮助开发者构建界面的，主要是设置界面，唯一的相关性可能就是`Preference`是用`SharedPreferences`来保存设置信息的，但是如果有时间的话a，你还是可以看下`Preference`，你就知道为什么有些应用的设置界面怎么做到的那么遵守 Material Design，其实是现成的...,看完你就懂了，[传送门(自备梯子)](https://developer.android.com/guide/topics/ui/settings.html)
 
-### 参考文章：
+### 参考链接
  
 1. https://developer.android.com/reference/android/content/SharedPreferences.html
 2. https://developer.android.com/training/basics/data-storage/shared-preferences.html
